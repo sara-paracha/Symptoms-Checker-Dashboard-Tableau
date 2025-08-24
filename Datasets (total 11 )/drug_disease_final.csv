@@ -1,0 +1,42 @@
+Disease,drug1,drug2,drug3,drug4
+Dengue,acetaminophen,,,
+Migraine,baclofen,amlodipine,atenolol,baclofen
+Acne,benzoyl peroxide,minocycline,clindamycin,tretinoin
+Arthritis,ibuprofen,dexamethasone,naproxen,cortisone
+Malaria,chloroquine,hydroxychloroquine,clindamycin,primaquine
+GERD,omeprazole,pantoprazole,ranitidine,famotidine
+Diabetes,insulin glargine,insulin lispro,vasopressin,metformin
+Osteoarthritis,meloxicam,diclofenac,naproxen,ibuprofen
+AIDS,dronabinol,megestrol,somatropin,filgrastim
+Hypothyroidism,levothyroxine,thyroid desiccated,liothyronine,liotrix
+Allergy,hydroxyzine,levocetirizine,loratadine,doxylamine
+Typhoid,ciprofloxacin,ceftriaxone,azithromycin,ampicillin
+hepatitis A,immune globulin intramuscular,hepatitis a adult vaccine,hepatitis a adult vaccine / hepatitis b adult vaccine,hepatitis a pediatric vaccine
+Psoriasis,clobetasol,methotrexate,triamcinolone,fluocinonide
+Hypoglycemia,glucagon,diazoxide,glucagon,diazoxide
+(vertigo) Paroymsal  Positional Vertigo,meclizine,promethazine,meclizine,promethazine
+Drug Reaction,antihistamine ,ibuprofen ,corticosteroid ,aspirin
+Chronic cholestasis,ursodiol ,rifampin,,
+Impetigo,mupirocin,cefadroxil,cefuroxime,retapamulin
+Hypertension,lisinopril,amlodipine,losartan,hydrochlorothiazide
+Peptic ulcer diseae,pantoprazole,famotidine,glycopyrrolate,aluminum hydroxide
+Dimorphic hemorrhoids(piles),hydrocortisone,lidocaine,dibucaine,phenylephrine
+Common Cold,diphenhydramine,chlorpheniramine,acetaminophen ,triprolidine
+Chicken pox,acyclovir ,calamine lotion,antihistamine,loratadine 
+Cervical spondylosis,naproxen sodium ,Ibuprofen ,acetaminophen ,corticosteroid 
+Hyperthyroidism,methimazole,propylthiouracil,potassium iodide,iodine / potassium iodide
+Urinary tract infection,ciprofloxacin,nitrofurantoin,sulfamethoxazole / trimethoprim,amoxicillin
+Varicose veins,polidocanol,sodium tetradecyl sulfate,,
+Paralysis (brain hemorrhage),corticosteroids,osmotics ,Benzodiazepines ,
+Hepatitis B,entecavir,tenofovir,lamivudine,adefovir
+Fungal infection,fluconazole,voriconazole,itraconazole,amphotericin b
+Hepatitis C,sofosbuvir,ribavirin,glecaprevir,ledipasvir
+Bronchial Asthma,montelukast,prednisone,ipratropium,flunisolide
+Alcoholic hepatitis,prednisolone,pentoxifylline ,,
+Jaundice,cholestyramine ,colestipol,,
+Hepatitis E,no specific antiviral therapy ,,,
+Hepatitis D,Pegylated interferon alpha,,,
+Heart attack,aspirin,clopidogrel,metoprolol,lisinopril
+Pneumonia,prednisone,clindamycin,amoxicillin,dexamethasone
+Gastroenteritis,ondansetron,doxycycline,ceftriaxone,ampicillin
+Tuberculosis,ethambutol,isoniazid,rifampin,pyrazinamide

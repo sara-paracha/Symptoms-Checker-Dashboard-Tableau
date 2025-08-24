@@ -1,0 +1,133 @@
+symptom_id ,Symptom Name,weight
+0,itching,1
+1,skin rash,3
+2,nodal skin eruptions,4
+3,continuous sneezing,4
+4,shivering,5
+5,chills,3
+6,joint pain,3
+7,stomach pain,5
+8,acidity,3
+9,ulcers on tongue,4
+10,muscle wasting,3
+11,vomiting,5
+12,burning micturition,6
+13,spotting urination,6
+14,fatigue,4
+15,weight gain,3
+16,anxiety,4
+17,cold hands and feets,5
+18,mood swings,3
+19,weight loss,3
+20,restlessness,5
+21,lethargy,2
+22,patches in throat,6
+23,irregular sugar level,5
+24,cough,4
+25,high fever,7
+26,sunken eyes,3
+27,breathlessness,4
+28,sweating,3
+29,dehydration,4
+30,indigestion,5
+31,headache,3
+32,yellowish skin,3
+33,dark urine,4
+34,nausea,5
+35,loss of appetite,4
+36,pain behind the eyes,4
+37,back pain,3
+38,constipation,4
+39,abdominal pain,4
+40,diarrhoea,6
+41,mild fever,5
+42,yellow urine,4
+43,yellowing of eyes,4
+44,acute liver failure,6
+45,swelling of stomach,7
+46,swelled lymph nodes,6
+47,malaise,6
+48,blurred and distorted vision,5
+49,phlegm,5
+50,throat irritation,4
+51,redness of eyes,5
+52,sinus pressure,4
+53,runny nose,5
+54,congestion,5
+55,chest pain,7
+56,weakness in limbs,7
+57,fast heart rate,5
+58,pain during bowel movements,5
+59,pain in anal region,6
+60,bloody stool,5
+61,irritation in anus,6
+62,neck pain,5
+63,dizziness,4
+64,cramps,4
+65,bruising,4
+66,obesity,4
+67,swollen legs,5
+68,swollen blood vessels,5
+69,puffy face and eyes,5
+70,enlarged thyroid,6
+71,brittle nails,5
+72,swollen extremeties,5
+73,excessive hunger,4
+74,extra marital contacts,5
+75,drying and tingling lips,4
+76,slurred speech,4
+77,knee pain,3
+78,hip joint pain,2
+79,muscle weakness,2
+80,stiff neck,4
+81,swelling joints,5
+82,movement stiffness,5
+83,spinning movements,6
+84,loss of balance,4
+85,unsteadiness,4
+86,weakness of one body side,4
+87,loss of smell,3
+88,bladder discomfort,4
+89,foul smell of urine,5
+90,continuous feel of urine,6
+91,passage of gases,5
+92,internal itching,4
+93,toxic look (typhos),5
+94,depression,3
+95,irritability,2
+96,muscle pain,2
+97,altered sensorium,2
+98,red spots over body,3
+99,belly pain,4
+100,abnormal menstruation,6
+101,dischromic patches,6
+102,watering from eyes,4
+103,increased appetite,5
+104,polyuria,4
+105,family history,5
+106,mucoid sputum,4
+107,rusty sputum,4
+108,lack of concentration,3
+109,visual disturbances,3
+110,receiving blood transfusion,5
+111,receiving unsterile injections,2
+112,coma,7
+113,stomach bleeding,6
+114,distention of abdomen,4
+115,history of alcohol consumption,5
+116,fluid overload,4
+117,blood in sputum,5
+118,prominent veins on calf,6
+119,palpitations,4
+120,painful walking,2
+121,pus filled pimples,2
+122,blackheads,2
+123,scarring,2
+124,skin peeling,3
+125,silver like dusting,2
+126,small dents in nails,2
+127,inflammatory nails,2
+128,blister,4
+129,red sore around nose,2
+130,yellow crust ooze,3
+131,prognosis,5

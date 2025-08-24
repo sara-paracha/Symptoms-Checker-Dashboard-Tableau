@@ -1,0 +1,317 @@
+symptom_id,Symptom Name,Disease
+8,acidity,Migraine
+30,indigestion,Migraine
+31,headache,Migraine
+48,blurred and distorted vision,Migraine
+73,excessive hunger,Migraine
+80,stiff neck,Migraine
+94,depression,Migraine
+95,irritability,Migraine
+109,visual disturbances,Migraine
+0,itching,Chicken pox
+1,skin rash,Chicken pox
+14,fatigue,Chicken pox
+25,high fever,Chicken pox
+46,swelled lymph nodes,Chicken pox
+98,red spots over body,Chicken pox
+35,loss of appetite,Chicken pox
+41,mild fever,Chicken pox
+47,malaise,Chicken pox
+21,lethargy,Chicken pox
+31,headache,Chicken pox
+96,muscle pain,Dengue
+5,chills,Dengue
+11,vomiting,Dengue
+25,high fever,Dengue
+34,nausea,Dengue
+35,loss of appetite,Dengue
+1,skin rash,Dengue
+6,joint pain,Dengue
+14,fatigue,Dengue
+31,headache,Dengue
+36,pain behind the eyes,Dengue
+37,back pain,Dengue
+98,red spots over body,Dengue
+79,muscle weakness,Arthritis
+80,stiff neck,Arthritis
+81,swelling joints,Arthritis
+82,movement stiffness,Arthritis
+120,painful walking,Arthritis
+1,skin rash,Acne
+121,pus filled pimples,Acne
+122,blackheads,Acne
+123,scarring,Acne
+0,itching,Fungal infection
+1,skin rash,Fungal infection
+2,nodal skin eruptions,Fungal infection
+101,dischromic patches,Fungal infection
+7,stomach pain,GERD
+8,acidity,GERD
+11,vomiting,GERD
+9,ulcers on tongue,GERD
+55,chest pain,GERD
+0,itching,Chronic cholestasis
+11,vomiting,Chronic cholestasis
+32,yellowish skin,Chronic cholestasis
+34,nausea,Chronic cholestasis
+35,loss of appetite,Chronic cholestasis
+39,abdominal pain,Chronic cholestasis
+43,yellowing of eyes,Chronic cholestasis
+11,vomiting,(vertigo) Paroymsal  Positional Vertigo
+31,headache,(vertigo) Paroymsal  Positional Vertigo
+34,nausea,(vertigo) Paroymsal  Positional Vertigo
+83,spinning movements,(vertigo) Paroymsal  Positional Vertigo
+84,loss of balance,(vertigo) Paroymsal  Positional Vertigo
+85,unsteadiness,(vertigo) Paroymsal  Positional Vertigo
+10,muscle wasting,AIDS
+22,patches in throat,AIDS
+25,high fever,AIDS
+74,extra marital contacts,AIDS
+11,vomiting,Alcoholic hepatitis
+32,yellowish skin,Alcoholic hepatitis
+39,abdominal pain,Alcoholic hepatitis
+45,swelling of stomach,Alcoholic hepatitis
+114,distention of abdomen,Alcoholic hepatitis
+115,history of alcohol consumption,Alcoholic hepatitis
+116,fluid overload,Alcoholic hepatitis
+14,fatigue,Bronchial Asthma
+24,cough,Bronchial Asthma
+25,high fever,Bronchial Asthma
+27,breathlessness,Bronchial Asthma
+105,family history,Bronchial Asthma
+106,mucoid sputum,Bronchial Asthma
+27,breathlessness,Bronchial Asthma
+37,back pain,Cervical spondylosis
+56,weakness in limbs,Cervical spondylosis
+62,neck pain,Cervical spondylosis
+63,dizziness,Cervical spondylosis
+84,loss of balance,Cervical spondylosis
+3,continuous sneezing,Common Cold
+5,chills,Common Cold
+14,fatigue,Common Cold
+24,cough,Common Cold
+25,high fever,Common Cold
+31,headache,Common Cold
+46,swelled lymph nodes,Common Cold
+47,malaise,Common Cold
+49,phlegm,Common Cold
+50,throat irritation,Common Cold
+51,redness of eyes,Common Cold
+52,sinus pressure,Common Cold
+53,runny nose,Common Cold
+54,congestion,Common Cold
+55,chest pain,Common Cold
+87,loss of smell,Common Cold
+96,muscle pain,Common Cold
+14,fatigue,Diabetes 
+19,weight loss,Diabetes 
+20,restlessness,Diabetes 
+21,lethargy,Diabetes 
+23,irregular sugar level,Diabetes 
+48,blurred and distorted vision,Diabetes 
+66,obesity,Diabetes 
+73,excessive hunger,Diabetes 
+103,increased appetite,Diabetes 
+104,polyuria,Diabetes 
+38,constipation,Dimorphic hemorrhoids(piles)
+58,pain during bowel movements,Dimorphic hemorrhoids(piles)
+59,pain in anal region,Dimorphic hemorrhoids(piles)
+60,bloody stool,Dimorphic hemorrhoids(piles)
+61,irritation in anus,Dimorphic hemorrhoids(piles)
+0,itching,Drug Reaction
+1,skin rash,Drug Reaction
+7,stomach pain,Drug Reaction
+12,burning micturition,Drug Reaction
+13,spotting urination,Drug Reaction
+11,vomiting,Gastroenteritis
+26,sunken eyes,Gastroenteritis
+29,dehydration,Gastroenteritis
+40,diarrhoea,Gastroenteritis
+11,vomiting,Heart attack
+27,breathlessness,Heart attack
+28,sweating,Heart attack
+55,chest pain,Heart attack
+6,joint pain,hepatitis A
+11,vomiting,hepatitis A
+32,yellowish skin,hepatitis A
+33,dark urine,hepatitis A
+34,nausea,hepatitis A
+35,loss of appetite,hepatitis A
+39,abdominal pain,hepatitis A
+40,diarrhoea,hepatitis A
+41,mild fever,hepatitis A
+43,yellowing of eyes,hepatitis A
+96,muscle pain,hepatitis A
+0,itching,Hepatitis B
+14,fatigue,Hepatitis B
+21,lethargy,Hepatitis B
+32,yellowish skin,Hepatitis B
+33,dark urine,Hepatitis B
+35,loss of appetite,Hepatitis B
+39,abdominal pain,Hepatitis B
+42,yellow urine,Hepatitis B
+43,yellowing of eyes,Hepatitis B
+47,malaise,Hepatitis B
+110,receiving blood transfusion,Hepatitis B
+111,receiving unsterile injections,Hepatitis B
+14,fatigue,Hepatitis C
+32,yellowish skin,Hepatitis C
+34,nausea,Hepatitis C
+35,loss of appetite,Hepatitis C
+105,family history,Hepatitis C
+6,joint pain,Hepatitis D
+11,vomiting,Hepatitis D
+14,fatigue,Hepatitis D
+32,yellowish skin,Hepatitis D
+33,dark urine,Hepatitis D
+34,nausea,Hepatitis D
+35,loss of appetite,Hepatitis D
+39,abdominal pain,Hepatitis D
+43,yellowing of eyes,Hepatitis D
+6,joint pain,Hepatitis E
+11,vomiting,Hepatitis E
+14,fatigue,Hepatitis E
+25,high fever,Hepatitis E
+32,yellowish skin,Hepatitis E
+33,dark urine,Hepatitis E
+34,nausea,Hepatitis E
+35,loss of appetite,Hepatitis E
+39,abdominal pain,Hepatitis E
+43,yellowing of eyes,Hepatitis E
+112,coma,Hepatitis E
+113,stomach bleeding,Hepatitis E
+44,acute liver failure,Hepatitis E
+31,headache,Hypertension 
+55,chest pain,Hypertension 
+63,dizziness,Hypertension 
+84,loss of balance,Hypertension 
+108,lack of concentration,Hypertension 
+14,fatigue,Hyperthyroidism
+18,mood swings,Hyperthyroidism
+19,weight loss,Hyperthyroidism
+20,restlessness,Hyperthyroidism
+28,sweating,Hyperthyroidism
+40,diarrhoea,Hyperthyroidism
+57,fast heart rate,Hyperthyroidism
+73,excessive hunger,Hyperthyroidism
+79,muscle weakness,Hyperthyroidism
+95,irritability,Hyperthyroidism
+100,abnormal menstruation,Hyperthyroidism
+11,vomiting,Hypoglycemia
+14,fatigue,Hypoglycemia
+16,anxiety,Hypoglycemia
+28,sweating,Hypoglycemia
+31,headache,Hypoglycemia
+34,nausea,Hypoglycemia
+48,blurred and distorted vision,Hypoglycemia
+73,excessive hunger,Hypoglycemia
+76,slurred speech,Hypoglycemia
+95,irritability,Hypoglycemia
+119,palpitations,Hypoglycemia
+14,fatigue,Hypothyroidism
+15,weight gain,Hypothyroidism
+17,cold hands and feets,Hypothyroidism
+18,mood swings,Hypothyroidism
+21,lethargy,Hypothyroidism
+63,dizziness,Hypothyroidism
+69,puffy face and eyes,Hypothyroidism
+70,enlarged thyroid,Hypothyroidism
+71,brittle nails,Hypothyroidism
+72,swollen extremeties,Hypothyroidism
+94,depression,Hypothyroidism
+95,irritability,Hypothyroidism
+100,abnormal menstruation,Hypothyroidism
+1,skin rash,Impetigo
+25,high fever,Impetigo
+128,blister,Impetigo
+129,red sore around nose,Impetigo
+130,yellow crust ooze,Impetigo
+0,itching,Jaundice
+11,vomiting,Jaundice
+14,fatigue,Jaundice
+19,weight loss,Jaundice
+25,high fever,Jaundice
+32,yellowish skin,Jaundice
+33,dark urine,Jaundice
+39,abdominal pain,Jaundice
+5,chills,Malaria
+11,vomiting,Malaria
+25,high fever,Malaria
+28,sweating,Malaria
+31,headache,Malaria
+34,nausea,Malaria
+96,muscle pain,Malaria
+11,vomiting,Paralysis (brain hemorrhage)
+31,headache,Paralysis (brain hemorrhage)
+86,weakness of one body side,Paralysis (brain hemorrhage)
+97,altered sensorium,Paralysis (brain hemorrhage)
+11,vomiting,Peptic ulcer diseae
+35,loss of appetite,Peptic ulcer diseae
+39,abdominal pain,Peptic ulcer diseae
+91,passage of gases,Peptic ulcer diseae
+92,internal itching,Peptic ulcer diseae
+30,indigestion,Peptic ulcer diseae
+5,chills,Pneumonia
+14,fatigue,Pneumonia
+24,cough,Pneumonia
+25,high fever,Pneumonia
+27,breathlessness,Pneumonia
+28,sweating,Pneumonia
+47,malaise,Pneumonia
+55,chest pain,Pneumonia
+57,fast heart rate,Pneumonia
+107,rusty sputum,Pneumonia
+49,phlegm,Pneumonia
+1,skin rash,Psoriasis
+6,joint pain,Psoriasis
+124,skin peeling,Psoriasis
+125,silver like dusting,Psoriasis
+126,small dents in nails,Psoriasis
+127,inflammatory nails,Psoriasis
+5,chills,Tuberculosis
+11,vomiting,Tuberculosis
+14,fatigue,Tuberculosis
+19,weight loss,Tuberculosis
+24,cough,Tuberculosis
+25,high fever,Tuberculosis
+27,breathlessness,Tuberculosis
+28,sweating,Tuberculosis
+35,loss of appetite,Tuberculosis
+41,mild fever,Tuberculosis
+43,yellowing of eyes,Tuberculosis
+46,swelled lymph nodes,Tuberculosis
+47,malaise,Tuberculosis
+49,phlegm,Tuberculosis
+55,chest pain,Tuberculosis
+117,blood in sputum,Tuberculosis
+5,chills,Typhoid
+11,vomiting,Typhoid
+14,fatigue,Typhoid
+25,high fever,Typhoid
+34,nausea,Typhoid
+38,constipation,Typhoid
+39,abdominal pain,Typhoid
+40,diarrhoea,Typhoid
+93,toxic look (typhos),Typhoid
+99,belly pain,Typhoid
+12,burning micturition,Urinary tract infection
+88,bladder discomfort,Urinary tract infection
+89,foul smell of urine,Urinary tract infection
+90,continuous feel of urine,Urinary tract infection
+14,fatigue,Varicose veins
+64,cramps,Varicose veins
+65,bruising,Varicose veins
+66,obesity,Varicose veins
+67,swollen legs,Varicose veins
+68,swollen blood vessels,Varicose veins
+118,prominent veins on calf,Varicose veins
+3,continuous sneezing,Allergy
+4,shivering,Allergy
+5,chills,Allergy
+102,watering from eyes,Allergy
+6,joint pain,Osteoarthritis
+62,neck pain,Osteoarthritis
+77,knee pain,Osteoarthritis
+78,hip joint pain,Osteoarthritis
+81,swelling joints,Osteoarthritis
+120,painful walking,Osteoarthritis
